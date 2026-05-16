@@ -1,0 +1,1 @@
+{"projet": "CryptoExchange", "version": "1.0", "chiffrement": ["RSA-2048", "AES-256-GCM"], "signature": "SHA-256/PSS"}

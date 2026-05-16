@@ -1,0 +1,9 @@
+Rapport de sécurité confidentiel
+================================
+Sujet : Protocole d'échange de fichiers chiffrés
+
+Ce document est protégé par chiffrement RSA + AES-256-GCM.
+Toute interception sera détectée par vérification de signature numérique.
+
+Auteur : Kader Belkhir
+Date   : 2025
